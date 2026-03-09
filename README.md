@@ -60,5 +60,5 @@ writing: "[https://manlikearslan.vercel.app/blog](https://manlikearslan.vercel.a
 
 ### 🐍 Contribution Graph
 <p align="center">
-  <img src="https://github.com/manLikeArslan/manLikeArslan/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/manLikeArslan/manLikeArslan/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
