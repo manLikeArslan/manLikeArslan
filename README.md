@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Muhammad%20Arslan%20Nazir&animation=twinkling&type=rect&color=gradient&customColorList=1&height=150&desc=I%20build%20to%20fix%20my%20own%20problems&descAlign=62&descAlignY=70"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Muhammad%20Arslan%20Nazir&textBg=false&animation=blink&desc=I%20build%20to%20fix%20my%20problems&fontColor=2a9d8f&reversal=false"/>
 </p>
+
+
 
 <p align="center">
   <a href="https://github.com/manLikeArslan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
