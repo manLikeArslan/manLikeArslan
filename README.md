@@ -82,12 +82,9 @@
 
 ---
 
-### 🐍 Contribution Graph & Daily Dev Joke
+### 🔥 The Daily Grind & Inspiration
 
+### 👨‍💻 System Status
 <p align="center">
-<img src="https://raw.githubusercontent.com/manLikeArslan/manLikeArslan/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
-<p align="center">
-<img src="https://www.google.com/search?q=https://readme-jokes.vercel.app/api%3Ftheme%3Ddracula%26hideBorder%3Dtrue" alt="Jokes Card" />
+  <img src="https://github-readme-terminal.vercel.app/api?user=manLikeArslan&theme=dracula" alt="Terminal Stats" />
 </p>
