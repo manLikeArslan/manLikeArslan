@@ -69,11 +69,12 @@
 
 ### 📊 GitHub Activity & Stats
 
-<p align="center">
-<a href="https://www.google.com/search?q=https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DmanLikeArslan%26theme%3Ddracula%26hide_border%3Dtrue%26area_color%3D2a9d8f%26color%3D2a9d8f" alt="Activity Graph" />
-</a>
-</p>
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manLikeArslan&theme=react-dark&hide_border=true&area_color=2a9d8f&color=2a9d8f&v=5)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
 
 <div align="center">
 
