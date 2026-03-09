@@ -82,9 +82,7 @@
 
 ---
 
-### 🔥 The Daily Grind & Inspiration
-
-### 👨‍💻 System Status
+### 🏙️ My Contribution City
 <p align="center">
-  <img src="https://github-readme-terminal.vercel.app/api?user=manLikeArslan&theme=dracula" alt="Terminal Stats" />
+  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Contribution City" width="100%" />
 </p>
