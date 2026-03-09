@@ -24,6 +24,25 @@
 
 ---
 
+### 📟 Live System Log
+
+```diff
++ [200 OK] VIBE CODING PROTOCOLS INITIALIZED...
+
+! CURRENT MISSION: 
+  Building Floxium — A portfolio builder so light it easily runs on Vercel + Supabase's Free Plan.
+
+# ACTIVE BUFFS & SKILL TREES:
+  > Networking, Linux, Docker
+  > LLMs & Generative AI Architecture
+
+- DISTRACTIONS: 
+  Blocked. Focused on System Design.
+
+@@ AWAITING PING FOR OPEN SOURCE COLLABORATION @@
+```
+---
+
 ### 👨‍💻 `whoami`
 <h3 align="center">👨‍💻 The Blueprint</h3>
 
